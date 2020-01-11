@@ -3,22 +3,23 @@
 
 # Project name
 Sport-Sharing
+
 # Project discription
 This application is interesting because it enables us to share sports equipement locally ang globally. On the basis of certain criteria like time, cost, C0² impact and distance you can search within your area sport equipments that you would like to rent or use. On the other hand you will be able to rent or freely borrow your sport equipments for others. 
 
 Possible enhancements:
 - Keep track of your events with HOLOREA and make it visible on a distributed accounting system
 - Earn reputation within the sacred capital ecosystem. 
-- Proof your identity by synchronizing with the HoloValt happ. 
+- Proof your identity by synchronizing with the HoloVault happ. 
 
 
 # Project category
-(Game, Education, Sharing, Local Organizing...)
+Sharing application
 
 # Difficulty
 ![difficulty](https://raw.githubusercontent.com/holochain-community-resources/Open-Source-Learning-Projects/master/difficulty.png)
 
-(Scale from easy to hard, e.g. Red or Blue)
+Middle
 
 # Design documents
 
