@@ -30,7 +30,7 @@ Middle
 
 ## Zome layout
 1) object
-2) transacting - To be Done 
+2) transacting - TBD
 3) admin - TBD --> for example needed for register object_categories
 
 ## Functions needed
@@ -51,7 +51,7 @@ Middle
 ## Phasing
 3 Phases 
 1) Proof of concept --> make the hApp happen without TBD
-2) Enhance it with admin mode 
+2) Enhance it with the transaction and admin zome
 3) Integrate other DNAs 
 
 # Phase-divided tasks
