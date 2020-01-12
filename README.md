@@ -66,8 +66,13 @@ tasks now. (also use github issues for tasks)
 (is there anyone activly doing work with this that want to pair up?)
 
 # People that have been involved that are open to be contacted
-Karl: karl.maier@edu.campus02.at - Community Organizer Mentor
-Toby: TBD - Marketing
-James: johan.graner@protonmail.com - FrontEnd Stuff
+Project Team Lisbon:
+    Karl: karl.maier.at@gmail.com - Community Organizer / Project Mentor
+    James: johan.graner@protonmail.com - Frontendish Developer
+    Toby: tobi.gutsche@gmail.com - Marketing
+    Georg: Backendish Developer
+    Victor: zaunders@gmail.com Community Organizer / Backend Consulting
+    Loic: Community Organizer / Functionality Consulting
+
 
 
