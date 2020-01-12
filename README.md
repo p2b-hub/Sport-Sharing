@@ -1,6 +1,4 @@
 # Sport-Sharing
-# Template for open source projects to learn Holochain
-
 # Project name
 Sport-Sharing
 
