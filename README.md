@@ -37,8 +37,8 @@ Middle
 1) register object_with_details
 2) register hashtag
 3) link hashtag to object_header
-4) get objects_by_distance_max3
-5) get objects_by_distance_unlimited
+4) get _perCategory
+5) get objects_by_distance_unlimited_for_oneCategory
 6) get hashtags
 
 ## Entries structures
@@ -61,7 +61,8 @@ tasks now. (also use github issues for tasks)
 (is there anyone activly doing work with this that want to pair up?)
 
 # People that have been involved that are open to be contacted
-Karl: karl.maier@edu.campus02.at, 
-Toby & James
+Karl: karl.maier@edu.campus02.at - Community Organizer Mentor
+Toby: TBD - Marketing
+James: johan.graner@protonmail.com - FrontEnd Stuff
 
 
