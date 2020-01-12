@@ -37,7 +37,7 @@ Middle
 1) register object_with_details
 2) register hashtag
 3) link hashtag to object_header
-4) get _perCategory
+4) get objects_by_distance_max3_for_everyCategory
 5) get objects_by_distance_unlimited_for_oneCategory
 6) get hashtags
 
