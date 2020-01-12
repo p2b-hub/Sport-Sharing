@@ -23,10 +23,21 @@ Middle
 # Design documents
 
 ##  Simple UI sketch (or more)
-1) Starting Page - Little description about the application --> automatically loads only the first 3 products which are in 100km distance -> if there are no objects tell the user that he/she should open the whole category 
+1) Starting / Category Overview Page - Little description about the application --> automatically loads only the first 3 products which are in 100km distance -> if there are no objects tell the user that he/she should open the whole category 
+
+![difficulty](https://github.com/p2b-hub/Sport-Sharing/blob/master/Category%20Overview%20Page.jpg)
+
 2) Offer Equipment --> Filling out the form: 1-Take a picture 2-Write a description 3-Decide a price 4-Define pic-up address 5-Define taggs 
-3) Category Page --> It will automatically retrieve every bike within 100 km distance and list only the description and the pic. In the category page you have an search function and a filter function which is located in the front-end. The filter function encompasses distance, cost, time and environmental impact. 
+
+![difficulty](https://github.com/p2b-hub/Sport-Sharing/blob/master/CreateObject.jpg)
+
+3) SubCategory Page --> It will automatically retrieve every bike within 100 km distance and list only the description and the pic. In the category page you have an search function and a filter function which is located in the front-end. The filter function encompasses distance, cost, time and environmental impact. 
+
+![difficulty](https://github.com/p2b-hub/Sport-Sharing/blob/master/SubCategory%20Page.jpg)
+
 4) Product Page --> Every typed in information which is available from the prodile and product data will be listed on the page. 
+
+![difficulty](https://github.com/p2b-hub/Sport-Sharing/blob/master/SportEquipment%20Page.jpg)
 
 ## Zome layout
 1) object
