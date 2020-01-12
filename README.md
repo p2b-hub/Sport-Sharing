@@ -1,5 +1,4 @@
 # Sport-Sharing
-# Project discription
 This application is interesting because it enables us to share sports equipement locally ang globally. On the basis of certain criteria like time, cost, C0² impact and distance you can search within your area sport equipments that you would like to rent or use. On the other hand you will be able to rent or freely offer your sport equipments for others.
 
 Possible enhancements:
